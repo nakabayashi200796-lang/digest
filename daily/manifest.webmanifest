@@ -1,6 +1,6 @@
 {
-  "name": "毎日のニュース",
-  "short_name": "ニュース",
+  "name": "The Brief",
+  "short_name": "The Brief",
   "id": "./latest.html",
   "start_url": "./latest.html",
   "scope": "./",
